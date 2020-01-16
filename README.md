@@ -1,2 +1,6 @@
 # UipathGlobalVariable
-for use variable across the workflow,so we can use Envoirmnet varibable.
+How to use variable across the workflow ?
+1) we can use Envoirmnet varibable.
+2) Orchestrator assets
+3) dictionary to use of state Machine activity like Reframework
+
